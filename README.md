@@ -1,7 +1,7 @@
 # Les_poutits_jeux
 Des petits jeux classiques fait en pure JS. 
 Liste des jeux:
-1)snake
+1)snake \n
 2)tetris
 3)pacman
 4)mastermind
